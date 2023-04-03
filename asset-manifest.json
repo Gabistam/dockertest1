@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gabistam.github.io/dockertest1/static/css/main.44f8b8b5.css",
+    "main.js": "/gabistam.github.io/dockertest1/static/js/main.1c8b6006.js",
+    "static/js/787.14b17a77.chunk.js": "/gabistam.github.io/dockertest1/static/js/787.14b17a77.chunk.js",
+    "index.html": "/gabistam.github.io/dockertest1/index.html",
+    "main.44f8b8b5.css.map": "/gabistam.github.io/dockertest1/static/css/main.44f8b8b5.css.map",
+    "main.1c8b6006.js.map": "/gabistam.github.io/dockertest1/static/js/main.1c8b6006.js.map",
+    "787.14b17a77.chunk.js.map": "/gabistam.github.io/dockertest1/static/js/787.14b17a77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.1c8b6006.js"
+  ]
+}
